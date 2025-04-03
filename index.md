@@ -1,9 +1,9 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout:  cv
+title: Hélène Bakir CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Etudiante et Animatrice.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
