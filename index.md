@@ -26,22 +26,22 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2021`
+__Lycée Jacques Feyder, Bac ES, Mention assez bien.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021-2023`
+__Upec, Licence LLCER Anglais__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2024-2025`
+__Université sorbonne Nouvelle, Licence Scien du Langage.__
 
 - Fellow
 
 
 
-## Awards
+## formation
 
 `2012`
 President, *Royal Society*, London, UK
@@ -50,7 +50,7 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Experience professionelle
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
@@ -64,24 +64,25 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+## loirsirs
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Langue parler
 
-`1600`
-__Royal Mint__, London
+`C2`
+__Français__
 
-- Warden
-- Minted coins
+`C2`
+__Turque__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`B2`
+__Anglais__
 
-
+`A2`
+__Allemand__
 
 <!-- ### Footer
 
