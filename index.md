@@ -45,7 +45,7 @@ Baby-sitting
 
 <u> Lire </u>
 
-<u> Netflix  and hill </u>
+<u> Netflix and hill </u>
 
 
 ## Langue parler
