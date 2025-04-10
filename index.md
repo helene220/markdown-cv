@@ -17,7 +17,7 @@ __Upec, Licence LLCER Anglais__
 - Sizar
 
 `2024-2025`
-__Université sorbonne Nouvelle, Licence Scien du Langage.__
+<mark> __Université sorbonne Nouvelle, Licence Scien du Langage.__</mark>
 
 - Fellow
 
