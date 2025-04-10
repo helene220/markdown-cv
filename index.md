@@ -1,4 +1,4 @@
-
+![Texte alternatif]
 ---
 layout:  cv
 title: Hélène Bakir CV
