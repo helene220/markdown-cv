@@ -1,9 +1,6 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Helene Bakir
+Etudiante et Animatrice
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,77 +8,52 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2021`
+<mark> __Lycée Jacques Feyder, Bac ES, Mention assez bien.__ </mark>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021-2023`
+__Upec, licence LLCER Anglais__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2024-2025`
+__ Université sorbonne nouvelle, Licence science du langage__
 
 - Fellow
 
 
+## formation
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2022`
+Bafa
 
 
+### experience proffessionelle
 
-## Publications
+`2021`
+service civique.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Baby-sitting
 
 
-## Occupation
+### loisir
 
-`1600`
-__Royal Mint__, London
+<u> Lire </u>
+<u> Netflix and chill</u>
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## langue parler
 
+`C2`
+__Français__, 
+
+`C2`
+__Turc__, 
+
+`C2`
+__Anglais__, 
 
 
 <!-- ### Footer
