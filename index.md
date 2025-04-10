@@ -1,4 +1,4 @@
-!(https://helene220.github.io/markdown-cv/cv.png)
+(https://helene220.github.io/markdown-cv/cv.png)
 ---
 layout:  cv
 title: Hélène Bakir CV
