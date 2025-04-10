@@ -1,8 +1,4 @@
-(https://helene220.github.io/markdown-cv/cv.png)
----
-layout:  cv
-title: Hélène Bakir CV
----
+
 # Hélène Bakir
 Etudiante et Animatrice.
 
@@ -63,7 +59,7 @@ __Anglais__
 `A2`
 __Allemand__
 
-<!-- ### Footer
+<!-- ### Footer>
 
 Last updated: May 2013 -->
 
