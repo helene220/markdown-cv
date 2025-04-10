@@ -23,7 +23,7 @@ __Upec, Licence LLCER Anglais__
 - Fellow
 
 
-## formation
+## <span style="color:#FFC000">formation</span>
 
 `2022`
 Bafa
