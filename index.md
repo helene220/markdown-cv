@@ -6,7 +6,8 @@ Etudiante et Animatrice.
 <a href="helene.bakir@sorbonne-nouvelle.fr">helene.bakir@sorbonne-nouvelle.fr</a>
 </div>
 
-## Education
+## EDUCATION
+
 
 `2020-2021`
 __Lycée Jacques Feyder, Bac ES, Mention assez bien.__
