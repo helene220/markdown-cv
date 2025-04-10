@@ -9,21 +9,6 @@ Etudiante et Animatrice.
 <a href="helene.bakir@sorbonne-nouvelle.fr">helene.bakir@sorbonne-nouvelle.fr</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
 `2020-2021`
@@ -40,34 +25,26 @@ __Université sorbonne Nouvelle, Licence Scien du Langage.__
 - Fellow
 
 
-
 ## formation
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2022`
+Bafa
 
 
 ## Experience professionelle
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2021`
+service civique
 
-### Journals
+`2021`
+Animation _Capitaine lagache, Paris 17__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+Baby-sitting
 
 ## loirsirs
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Lire
+Netflix  and hill
 
 
 ## Langue parler
