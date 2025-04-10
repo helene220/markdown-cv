@@ -1,7 +1,4 @@
 
-
-# Helene Bakir
-![En-tête].[mardown]
 ---
 layout:  cv
 title: Hélène Bakir CV
@@ -69,5 +66,4 @@ __Allemand__
 <!-- ### Footer
 
 Last updated: May 2013 -->
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-[mardown] : https://github.com/helene220/markdown-cv/blob/ab04bf7101bc2edbbf8dd0506f1ca759702f9b30/cv.png
+
